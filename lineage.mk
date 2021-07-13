@@ -34,5 +34,5 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 PRODUCT_DEVICE := douglas
 PRODUCT_NAME := lineage_douglas
 PRODUCT_BRAND := google
-PRODUCT_MODEL := Fire HD8 2016
+PRODUCT_MODEL := Fire HD8 2017
 PRODUCT_MANUFACTURER := amzn
