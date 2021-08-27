@@ -21,4 +21,4 @@ Rear Camera  | 2 MP
   <img src="https://www.pikpng.com/pngl/b/347-3474224_amazon-fire-hd-8-amazon-fire-7-tablet.png" alt="douglas"/>
 </p>
 
-This branch is for building LineageOS 14.1 (CM).
+This branch is for building LineageOS 15.1.
