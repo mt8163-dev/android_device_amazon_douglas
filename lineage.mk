@@ -25,7 +25,7 @@ $(call inherit-product, device/amazon/douglas/device.mk)
 $(call inherit-product, device/amazon/mt8163-common/mt8163-common.mk)
 
 # Inherit some common LineageOS stuff.
-$(call inherit-product, vendor/cm/config/common_full_tablet_wifionly.mk)
+$(call inherit-product, vendor/lineage/config/common_full_tablet_wifionly.mk)
 
 # Inherit languages full.
 $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
