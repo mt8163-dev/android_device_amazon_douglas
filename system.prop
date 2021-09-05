@@ -6,7 +6,7 @@
 ro.smartvolume.config=/system/vendor/smartvolume/douglas/
 
 # OTAs
-cm.updater.uri=https://raw.githubusercontent.com/R0rt1z2/OTA/master/lineageos_douglas.json
+lineage.updater.uri=https://raw.githubusercontent.com/R0rt1z2/OTA/lineage-15.1/lineageos_douglas.json
 
 # MediaTek
 ro.mediatek.project.path=device/amazon/douglas
