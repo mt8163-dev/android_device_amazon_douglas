@@ -1,0 +1,14 @@
+# SmartVolume
+vendor/smartvolume/douglas/anlg_dock_headset.csv
+vendor/smartvolume/douglas/aux_digital.csv
+vendor/smartvolume/douglas/bt_a2dp.csv
+vendor/smartvolume/douglas/bt_a2dp_headphones.csv
+vendor/smartvolume/douglas/bt_a2dp_speaker.csv
+vendor/smartvolume/douglas/bt_sco.csv
+vendor/smartvolume/douglas/bt_sco_carkit.csv
+vendor/smartvolume/douglas/bt_sco_headset.csv
+vendor/smartvolume/douglas/default.csv
+vendor/smartvolume/douglas/dgtl_dock_headeset.csv
+vendor/smartvolume/douglas/speaker.csv
+vendor/smartvolume/douglas/wired_headphone.csv
+vendor/smartvolume/douglas/wired_headset.csv
