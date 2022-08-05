@@ -1,2 +1,5 @@
 # Audio
 ro.smartvolume.config=/system/vendor/smartvolume/douglas/
+
+# OTA
+lineage.updater.uri=https://raw.githubusercontent.com/R0rt1z2/OTA/lineage-17.1/lineageos_douglas.json
